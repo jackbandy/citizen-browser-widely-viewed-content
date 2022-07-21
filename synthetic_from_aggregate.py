@@ -20,3 +20,4 @@ for index, row in df.iterrows():
 # save output
 synthetic = pd.concat(domain_visitors)
 synthetic.to_csv('synthetic_visitors/visitors.csv',index=False)
+synthetic.sample(1000).to_csv('synthetic_visitors/sample_visitors_1k.csv',index=False)
