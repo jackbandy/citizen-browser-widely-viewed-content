@@ -1,8 +1,8 @@
 # Citizen Browser: Facebook's Top Content
 
-## Demonstration Fork for Privacy-Enhancing Data Science
+## Demonstration Fork for Privacy-Preserving Platform Transparency
 
-The goal of this fork is to create synthetic data representing impressions / visits, and then use this data to demonstrate privacy-ehnancing data science.
+The goal of this fork is to create a simple synthetic dataset representing impressions / visits. The dataset will be used to demonstrate privacy-preserving platform transparency.
 
 ---
 
